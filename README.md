@@ -1,6 +1,6 @@
 # Lab-4-Py
 
-## IT is My Carnaval here 
+## make project that use oop and relations to make a simple app 
 ### Let's start the big value of OOP { relations }
 
 # Project Objective
@@ -12,4 +12,14 @@
  ## make some functions 
  
  
- ### Fun 
+ ### Functions Asked in the task
+    1- drive (distance)
+    2- refuel (gasAmount = 100)
+    3- run (velocity, distance)
+    4- stop ()
+    5- get_all_employees() ==> gAEmp() and gEmp(empid) , hire (Employee) 
+    6- fire (empId) , deduct (empId, deduction) , reward (empId, reward)
+    7- check_lateness (empId, moveHour)
+    8-  calculate_lateness
+    9- employeesNum
+    10- change_emps_num (num)
