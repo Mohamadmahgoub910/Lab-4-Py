@@ -14,7 +14,7 @@
  
  
  
- ### Relations Like This { Office {attributes and methods} has {Employees{attributes and methods}} and each {Employee} has a {car{attributes and methods}   } 
+ ### Relations Like This { Office {attributes and methods} has {Employees IS{PERSON{attributes and methods} }{attributes and methods}} and each {Employee} has a {car{attributes and methods}   } 
  
  
  ## make some functions 
