@@ -3,8 +3,3 @@ FROM:- aliaa@gmai.com
 |Subject:- come to eat 
 |Msg:- Hi Bro the food close to finish come faster to eat 
  Regards :)
-FROM:- aliaa@gmai.com
-|TO:- ali@gmail.com
-|Subject:- come to eat 
-|Msg:- Hi Bro the food close to finish come faster to eat 
- Regards :)
