@@ -9,9 +9,15 @@
  ## call any method and call any var as what you want and play in it as you want with some restrictrions 
  ## make an ITI office contains Employees 
  ## make Employee with it's data
+ ## make Car for employee so he can get into his office
+ ## make person so that can employee extend him.
+ 
+ 
+ 
+ ### Relations Like This { Office {attributes and methods} has {Employees{attributes and methods}} and each {Employee} has a {car{attributes and methods}   } 
+ 
+ 
  ## make some functions 
- 
- 
  ### Functions Asked in the task
     1- drive (distance)
     2- refuel (gasAmount = 100)
