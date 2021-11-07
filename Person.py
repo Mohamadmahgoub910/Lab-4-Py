@@ -59,6 +59,6 @@ personobj = Person(name="ali", money=1000, mood="Notgood", healthRate="fine")
 # personobj.buy(1)
 # print("work fn ")
 # personobj.work(8)
-# print("sendmail fn see file  ")
-# personobj.sendMail("FROM:- aliaa@gmai.com\n", "TO:- ali@gmail.com\n", "Subject:- come to eat \n",
-#                    "Msg:- Hi Bro the food close to finish come faster to eat \n Regards :)")
+print("sendmail fn see file  ")
+personobj.sendMail("FROM:- aliaa@gmai.com\n", "TO:- ali@gmail.com\n", "Subject:- come to eat \n",
+                   "Msg:- Hi Bro the food close to finish come faster to eat \n Regards :)")
